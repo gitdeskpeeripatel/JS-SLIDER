@@ -16,6 +16,9 @@ This is a responsive and visually appealing homepage for a fictional plant store
 > Three separate image sliders for product showcases
 
 
+
+
+
 🧰 2. Technologies Used
 
 Technology with	Purpose
@@ -29,6 +32,9 @@ Technology with	Purpose
 🎯 Bootstrap Icons CDN - 	Navigation icons in sliders
 
 📜 JavaScript (external) - Image slider functionality (via script.js)
+
+
+
 
 
 🧱 3. Structure Breakdown
@@ -57,6 +63,9 @@ Technology with	Purpose
 > Responsive container and image styles
 
 > Shadows and border-radius for UI elevation
+
+
+
 
 
 📂 4. Folder/File Structure
@@ -88,6 +97,9 @@ project-root/
 │   ├── image-2.webp
 
 │   └── ... (other images)
+
+
+
 
 
 ⚙️ 5. External Dependencies
