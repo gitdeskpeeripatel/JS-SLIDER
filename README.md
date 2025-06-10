@@ -40,19 +40,17 @@ Technology with	Purpose
 🧱 3. Structure Breakdown
 ✅ HTML Elements
 
-> <!DOCTYPE html>: HTML5 doctype declaration
+> HTML5 doctype declaration
 
-> <nav>: Top navigation bar with logo and links
+> Top navigation bar with logo and links
 
-> <ul><li>: Navigation menu items
+> Navigation menu items
 
-> .container-wrapper: Holds all carousels
+> Individual carousel card
 
-> .container: Individual carousel card
+> Holds multiple .slide images
 
-> .carousel-inner: Holds multiple .slide images
-
-> <button>: Navigation controls for image slider
+> Navigation controls for image slider
 
 
 
