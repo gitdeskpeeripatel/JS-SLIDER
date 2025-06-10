@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/e024a001-fa31-4a3e-8d34-3b810e6c99a6)
+
 VIEW:- https://fancy-sprinkles-590db7.netlify.app/
 
 
@@ -101,7 +103,7 @@ project-root/
 
 
 ⚙️ 5. External Dependencies
->Bootstrap Icons (CDN): <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+>Bootstrap Icons (CDN): https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/bootstrap-icons.svg
 
 
 >Google Fonts (Outfit):@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
